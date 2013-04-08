@@ -1,5 +1,5 @@
-cobusc.github.com
-=================
+cobusc.github.io
+================
 
 GitHub user site
 
